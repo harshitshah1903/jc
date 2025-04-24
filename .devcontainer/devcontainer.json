@@ -1,6 +1,7 @@
 // See https://containers.dev/implementors/json_reference/ for configuration reference
 {
-	"name": "Untitled Node.js project",
+	"name": "Node.js",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:0-18"
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
